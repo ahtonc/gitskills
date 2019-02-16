@@ -1,2 +1,6 @@
 #test branch
-#file or
+<<<<<<< HEAD
+#file or and
+=======
+#file and
+>>>>>>> dev
